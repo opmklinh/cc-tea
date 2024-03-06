@@ -4,6 +4,10 @@
   "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@huyenkulzz",
-  "repository": "https://github.com/opmklinh/cc-tea.git",
+  "repository": {
+"type": "git"
+"url": "https://github.com/opmklinh/cc-tea.git",
+},
+"website": "https://github.com/opmklinh/cc-tea.git",
   "license": "ISC"
 }
